@@ -1,0 +1,24 @@
+{
+    "llm_provider": "google",
+    "llm_model": "gemini-1.5-pro-preview-05-20",
+    "extensiones_a_procesar": [
+        ".py",
+        ".js",
+        ".jsx",
+        ".html",
+        ".css",
+        ".java",
+        ".scala",
+        ".sql",
+        ".sh",
+        ".md",
+        ".json",
+        ".txt",
+        ".csv"
+    ],
+    "extensiones_a_ignorar": [
+        ".log",
+        ".tmp"
+    ],
+    "db_results_count": 400
+}

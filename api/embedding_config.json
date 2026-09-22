@@ -1,0 +1,4 @@
+{
+    "embedding_provider": "ollama",
+    "embedding_model": "embedding_model"
+}

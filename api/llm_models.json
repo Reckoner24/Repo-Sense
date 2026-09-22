@@ -1,0 +1,46 @@
+{
+    "google": {
+        "gemini-1.5-flash-preview-0520": {
+            "max_context_tokens": 1000000
+        },
+        "gemini-1.5-pro-preview-0520": {
+            "max_context_tokens": 1000000
+        },
+        "gemini-1.0-pro": {
+            "max_context_tokens": 32768
+        }
+    },
+    "openai": {
+        "gpt-4o": {
+            "max_context_tokens": 128000
+        },
+        "gpt-4-turbo": {
+            "max_context_tokens": 128000
+        },
+        "gpt-3.5-turbo": {
+            "max_context_tokens": 16385
+        }
+    },
+    "groq": {
+        "llama3-8b-8192": {
+            "max_context_tokens": 8192
+        },
+        "llama3-70b-8192": {
+            "max_context_tokens": 8192
+        },
+        "mixtral-8x7b-32768": {
+            "max_context_tokens": 32768
+        }
+    },
+    "ollama": {
+        "llama3:8b": {
+            "max_context_tokens": 8192
+        },
+        "mistral:7b": {
+            "max_context_tokens": 32768
+        },
+        "phi3:3.8b": {
+            "max_context_tokens": 4096
+        }
+    }
+}
